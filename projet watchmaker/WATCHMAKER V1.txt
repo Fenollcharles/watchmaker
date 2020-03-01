@@ -1,0 +1,13 @@
+Le code permet uniquement de savoir à quelle heure le tram sera là.
+
+Il ne prend en compte que un paramétre : -l'arrêt
+
+
+Il ne donne en réponses que deux éléments : -les trams présents à cet arrêt
+                                            -l'heure à laquelle ils arrivent
+
+
+
+
+Les points à ameliorer pour la V2 seront : -savoir si un des trams passent par l'arrêt de sa destination
+                                           - à déterminer
