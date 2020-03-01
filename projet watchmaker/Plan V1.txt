@@ -1,0 +1,34 @@
+Premiérement, chaque semaine que j'impose pour finir telle ou telle tache est une semaine sans DS, que ce soit pendant les 
+vacances ou non, ce sont donc des semaines rétablis de fon discontinus tous le longs de l'année alors pas de panique.
+
+Ensuite pour chaques tâches n'hesitez pas à aller voir avec l'équipe de charlotte si vous en avez besoin.
+
+Enfin, j'espere que ce très legers programme va vous encourager à avancer doucment mais sûrement, pas de problème si la 
+premiere version est rempli d'erreur, l'essentiel est d'avoir une base sur quoi travailler et évoluer.
+
+
+Voici les taches que nous devront effectuer pour réussir la V1 le plus efficacement :
+  
+  - 2 personnes doivent se charger de voir pour l'hébérgement de la base de donnée. 
+(Pour cela ils peuvent faire appel a Mr. Warckoz pour connaître ses attentes niveau prix et qualité de l'hébérgement. 
+
+La tâche étant relativement peu couteuse en temps et effort ils devront s'en occuper d'ici une semaine, 2 maximum.)
+
+  
+  - 2 personnes devront se charger du problemes de rafraichissment de la base.
+( En effet les données de la Tam se reactualisent environ toutes les minutes pour ce qui est des informations en tps réel.
+Elle s'actualise sinon tous les matins à 4h du matin pour ce qui est des horaires théoriques.
+Le travail est ici plutôt compliqué, vous allez devoir collaborer avec l'équipe de charlotte pour ceci, où plutôt la mère
+de charlotte mais les solutions sont assez évidentes à vous d'opter pour la simplicité, c'est la V1...
+
+Le travail pourra être éffectué en l'espace de 2 à 3 semaines.)
+
+  
+  - 2 personnes devront s'occuper de la lecture et l'architecture de la base. 
+( Ce travail est le plus coûteux niveau temps et efforts mais il est sûrement le plus interessant niveau connaissance 
+c'est pour cela que un compte rendu de se travail devra être sauvegardé après chaque ajout et avancé pour que toute 
+l'équipe puisse le comprendre et y participer si elle le souhaite.
+
+Ce travail est le plus important de tous le projet il evoluera sans cesse au fur et à mesure des versions mais pour la V1
+il peut prendre 4 semaines au maximum.)
+
