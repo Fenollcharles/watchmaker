@@ -1,0 +1,33 @@
+Course
+
+Identifiant de la course (ou trajet d’un terminus à un autre) pour la journée.
+
+stop_code
+
+Identifiant de l’arrêt.  Ne pas utiliser cette donnée.
+
+stop_id
+
+Identifiant de référence de l’arrêt.  Cette donnée est présente dans le fichier stops.txt du GTFS.
+stop_name
+
+Nom court de l’arrêt. Ne pas utiliser cette donnée.
+
+route_short_name
+
+Numéro de la ligne.
+
+trip_headsign
+
+Destination de la course
+
+direction_id
+
+Code direction :     0 Aller    1 Retour
+
+departure_time
+
+Heure théorique de départ
+is_theorical
+
+Ne pas utiliser cette donnée.
